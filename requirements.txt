@@ -1,0 +1,9 @@
+streamlit==0.66.0
+pandas==1.0.5
+numpy==1.18.5
+opencv-python-headless==4.2.0.32
+tensorflow==1.15.2
+tqdm==4.41.1
+Pillow==7.2.0
+matplotlib==3.3.2
+psycopg2==2.7.6.1
