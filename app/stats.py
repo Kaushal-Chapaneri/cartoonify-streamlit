@@ -44,6 +44,6 @@ def display_stats(df):
 	
 	st.write("") 
 	st.write("") 
-	st.markdown("Link to Source code : [github](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf)")
+	st.markdown("Link to Source code : [github](https://github.com/Kaushal-Chapaneri/cartoonify-streamlit)")
 
  
