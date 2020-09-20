@@ -20,3 +20,8 @@ You can check out the paper [here](https://github.com/SystemErrorWang/White-box-
 - Install requiremenr.txt in virtual environment
 - To run : streamlit run Cartoonify.py
 ```
+
+## Watch demo on YouTube
+
+- [part-1](https://youtu.be/W5pPcL9vxqY) Demo of all the functionality of this application
+- [part-2](https://youtu.be/JKR4kX4P8Cw) Discussion on Development and Deployment of this application

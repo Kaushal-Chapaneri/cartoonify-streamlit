@@ -40,7 +40,7 @@ def display_stats(df):
 	st.write("") 
 	st.title('How it works?')
 	st.write("")
-	st.video('https://youtu.be/k2FQ0KN2J-Q')
+	st.video('https://youtu.be/JKR4kX4P8Cw')
 	
 	st.write("") 
 	st.write("") 

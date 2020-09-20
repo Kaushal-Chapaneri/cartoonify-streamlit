@@ -217,7 +217,7 @@ if page == "Cartoonify":
   
   if agree:
 
-    st.video('https://youtu.be/k2FQ0KN2J-Q') 
+    st.video('https://youtu.be/W5pPcL9vxqY') 
            
 
 elif page == "Credits":
