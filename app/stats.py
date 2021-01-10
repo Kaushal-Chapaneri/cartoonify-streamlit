@@ -32,7 +32,7 @@ def display_stats(df):
 	d = df2.groupby(['dates','inp_type'])['inp_type'].size().unstack()
 	unique_dates = df2['dates'].unique().tolist()
 	d = d.reindex(unique_dates)
-	d = d[:9]
+	d = d[-9:]
 	d.plot(kind='bar',stacked=True,title='Request type by Day')
 	st.pyplot()
 	
